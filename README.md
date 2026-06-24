@@ -180,6 +180,9 @@ Abaixo estão os registros visuais da interface do sistema, organizados de acord
 ### Acesso ao Sistema (Login)
 ![Login](img/print6.png)
 
+### Rota não Encontrada (Fallback)
+![Fallback](img/print7.png)
+
 ---
 
 ## Como Executar o Projeto Localmente
